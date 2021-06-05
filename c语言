@@ -1,0 +1,4 @@
+#include<stdio.h>
+viod main(){
+printf("欢迎来到GitHub");
+}
